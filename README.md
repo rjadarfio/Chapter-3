@@ -1,5 +1,5 @@
 # Chapter-3
-Continuing whit the lessons of Python for Everybody, now is Chapter 3 "Conditionals"
+Continuing wiht the lessons of Python for Everybody, now is Chapter 3 "Conditionals"
 
 #Exercise 1: Rewrite your pay computation to give the employee 1.5 times the hourly rate for hours worked above 40 hours.
 
